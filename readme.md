@@ -16,6 +16,14 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 
 ## Usage
 
+To run the website using GitHub Pages, open the following link:
+
+[E-Book Website](https://o0danii0o.github.io/ebook-website/index.html) 
+
+Follow the instructions below to run it locally on your machine.
+
+### Prerequisites
+
 This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
 
 In order to customize this website, you need to install [Node.js](https://nodejs.org/en/). Then, clone this repository and run:
