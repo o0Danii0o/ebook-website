@@ -11,6 +11,10 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+.modal-dialog {
+    max-width: 1040px;
+}
+
 .header{
     background: url(../images/header-background.jpg) center center no-repeat;
     background-size: cover;
