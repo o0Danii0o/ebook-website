@@ -18,7 +18,8 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 
 To run the website using GitHub Pages, open the following link:
 
-[E-Book Website](https://o0danii0o.github.io/ebook-website/index.html) 
+[E-Book Website GitHub Pages](https://o0danii0o.github.io/ebook-website/index.html) 
+[E-Book Website Vercel](https://ebook-website-six-tan.vercel.app/)
 
 Follow the instructions below to run it locally on your machine.
 
